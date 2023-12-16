@@ -13,3 +13,7 @@ Key components of the project includes:
  - Training
  - Prediction
  - Evaluation
+
+
+Conclusion:
+In this botnet detection project, employing Random Forest and Logistic Regression models has proven effective. The choice of AUC and ROC curve as evaluation metrics indicates a focus on model performance across various thresholds. The ensemble nature of Random Forest contributes to robustness, while Logistic Regression offers interpretability. Regularly updating and fine-tuning these models will ensure adaptability to emerging botnet patterns. The integration of these models into security workflows, along with ethical considerations, underscores a comprehensive approach to effective and responsible botnet detection.
